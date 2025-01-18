@@ -8,7 +8,7 @@ Dieses Projekt zeigt und analysiert COVID-19-Daten, einschließlich bestätigter
 **Einfache Bedienung:** Der Benutzer gibt ein Land ein, und das System zeigt die entsprechenden Daten und Diagramme für dieses Land.
 
 ### Anerkennung
-Die CSV-Dateien wurden aus dem [COVID-19 Datenrepository] (https://github.com/CSSEGISandData/COVID-19) der Johns Hopkins University in den USA auf GitHub entnommen.
+Die CSV-Dateien wurden aus dem [COVID-19 Datenrepository](https://github.com/CSSEGISandData/COVID-19) der Johns Hopkins University in den USA auf GitHub entnommen.
 
 ### Lizenz
-Dieses Projekt ist Open-Source und unter der [MIT-Licence] (https://opensource.org/license/MIT) verfügbar.
+Dieses Projekt ist Open-Source und unter der [MIT-Licence](https://opensource.org/license/MIT) verfügbar.
