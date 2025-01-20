@@ -2,7 +2,7 @@
 Dieses Projekt zeigt und analysiert COVID-19-Daten, einschließlich bestätigter Fälle, Todesfälle und Genesungen, mit Hilfe von Diagrammen, die den Verlauf der Pandemie in verschiedenen Ländern visualisieren.
 
 ## Wie es funktioniert?
-- **Backend-Daten:** Das Projekt verwendet CSV-Dateien, die tägliche COVID-19 Daten enthalten.
+- **COVID-19 Daten:** Das Projekt verwendet CSV-Dateien, die tägliche COVID-19 Daten enthalten.
 - **Datenanalyse:** Die CSV-Dateien werden mit Hilfe von Pandas eingelesen.
 - **Visualisierung:** Es generiert interaktive Diagramme mit matplotlib, die tägliche sowie kumulierte Zahlen für bestätigte Fälle, Todesfälle und Genesungen anzeigen.
 - **Einfache Bedienung:** Der Benutzer gibt ein Land ein, und das System zeigt die entsprechenden Daten und Diagramme für dieses Land.
